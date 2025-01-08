@@ -1,2 +1,1 @@
-Bonjour, ceci est un fichier texte.!!
-g
+hello from branche-conflit-main
